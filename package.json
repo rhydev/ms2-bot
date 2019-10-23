@@ -1,0 +1,21 @@
+{
+  "name": "ms2-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0",
+    "moment": "^2.24.0",
+    "strip-ansi": "^5.2.0"
+  },
+  "devDependencies": {
+    "standard": "^14.3.1"
+  }
+}
